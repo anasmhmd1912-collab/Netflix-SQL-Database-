@@ -53,7 +53,7 @@ The dataset used is a publicly available Netflix dataset containing:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/prajavkrish/NETFLIX.git
+   git clone https://github.com/anasmohamed/NETFLIX.git
 
 
 
